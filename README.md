@@ -12,3 +12,6 @@
 
 ## [Semaine 4](semaine_04.md) 
 * Trouver 5 oeuvres du domaine du multimédia. Donner leur auteur, leur année de production et leurs caractéristiques. 
+
+## [Semaine 5](semaine_05.md) 
+* Écrire votre plan pour la présentation 1. 
