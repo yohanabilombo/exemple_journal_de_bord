@@ -1,4 +1,4 @@
-# Semaine 5
+# Cours 5
 ## Plan de présentation
 
 ### Présentation
