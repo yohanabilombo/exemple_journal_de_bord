@@ -40,5 +40,13 @@
 ## [Semaine 8](semaine_08.md) 
 * Créer le scénarimage d'une anecdote. 
 
+## [Semaine 9](semaine_09.md) 
+* Créer une palette de couleur pour la présentation 2. 
+
+#### Autre devoir
+* Préparer la présentation 2. 
+
+
+
 
 
