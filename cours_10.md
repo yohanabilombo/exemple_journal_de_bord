@@ -1,4 +1,4 @@
-# Semaine 10
+# Cours 10
 ## Plan de présentation 2 
 Durée: 5 à 7 minutes
 
