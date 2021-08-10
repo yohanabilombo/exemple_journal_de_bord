@@ -1,4 +1,4 @@
-# Semaine 3
+# Cours 3
 ## Décrire 5 emplois du domaine du multimédia
 
 ### Emploi 1 - Identification
