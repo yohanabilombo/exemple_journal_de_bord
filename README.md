@@ -49,6 +49,11 @@
 ## [Semaine 10](semaine_10.md) 
 * Écrire votre plan pour la présentation 2. 
 
+## [Semaine 11](semaine_11.md) 
+* Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
+
+#### Autre devoir
+* Préparer la présentation 3. 
 
 
 
