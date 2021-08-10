@@ -30,7 +30,7 @@
 * Présenter et donner une appréciation de l'oeuvre multimédia que vous avez choisie. 
 
 ## [Cours 7](semaine_07.md) 
-* Créer une carte heuristique de ses intérêts en multimédia. 
+* Créer une palette de couleur pour la présentation 2. 
 
 #### Autre devoir
 * Préparation pour le quiz. 
@@ -39,7 +39,7 @@
 * Créer le scénarimage d'une anecdote. 
 
 ## [Cours 9](semaine_09.md) 
-* Créer une palette de couleur pour la présentation 2. 
+* Créer une carte heuristique de ses intérêts en multimédia. 
 
 #### Autre devoir
 * Préparer la présentation 2. 
