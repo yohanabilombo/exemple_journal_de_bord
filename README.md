@@ -37,28 +37,27 @@
 * Préparation pour le quiz. 
 
 ## [Cours 8](cours_08.md) 
-* Créer le scénarimage d'une anecdote. 
+
 
 ## [Cours 9](cours_09.md) 
 * Créer une carte heuristique de ses intérêts en multimédia. 
 
+## [Cours 10](cours_10.md) 
+* Créer le scénarimage d'une anecdote.
+
 #### Autre devoir
 * Préparer la présentation 2. 
 
-## [Cours 10](cours_10.md) 
+## [Cours 11](cours_11.md) 
 * Écrire votre plan pour la présentation 2. 
 
-## [Cours 11](cours_11.md) 
+## [Cours 12](cours_12.md) 
 * Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
 
-#### Autre devoir
-* Préparer la présentation 3. 
-
-## [Cours 12](cours_12.md) 
-* 
-
-#### Autre devoir
-* Préparer la présentation 3. 
-
 ## [Cours 13](cours_13.md) 
+
+#### Autre devoir
+* Préparer la présentation 3. 
+
+## [Cours 14](cours_14.md)
 * Écrire votre plan pour la présentation 3. 
