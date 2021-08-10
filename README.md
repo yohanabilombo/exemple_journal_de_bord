@@ -37,5 +37,8 @@
 ## [Semaine 7](semaine_07.md) 
 * Créer une carte heuristique de ses intérêts en multimédia. 
 
+## [Semaine 8](semaine_08.md) 
+* Créer le scénarimage d'une anecdote. 
+
 
 
