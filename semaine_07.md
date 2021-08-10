@@ -1,5 +1,5 @@
 # Semaine 7 
 ## Création de carte heuristique
-Créer une carte euristique sur le site suivant:   
-La carte doit porter sur vos intérêts en multimédia.   
+Créer une carte euristique de vos intérêts en multimédia sur le site suivant:   
+
 Joindre une image de cette carte dans votre journal de bord. 
