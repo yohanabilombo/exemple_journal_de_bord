@@ -46,6 +46,9 @@
 #### Autre devoir
 * Préparer la présentation 2. 
 
+## [Semaine 10](semaine_10.md) 
+* Écrire votre plan pour la présentation 2. 
+
 
 
 
