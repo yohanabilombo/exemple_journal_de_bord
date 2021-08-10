@@ -1,4 +1,4 @@
-# Semaine 7 
+# Cours 7 
 ## Création de carte heuristique
 Créer une carte euristique de vos intérêts en multimédia sur le site suivant:   
 
