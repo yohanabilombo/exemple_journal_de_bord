@@ -8,14 +8,11 @@ Résumer le projet en une phrase concise.
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
 
-### Schéma du projet
-Expliquer le déroulement de votre expérience grâce à un schéma. 
+### Schéma du projet ou scénarimage
+Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-
-### Scénarimage
-Créer un scénarimage pour votre projet. 
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
