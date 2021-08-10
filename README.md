@@ -37,7 +37,7 @@
 * Préparation pour le quiz. 
 
 ## [Cours 8](cours_08.md) 
-
+Congé
 
 ## [Cours 9](cours_09.md) 
 * Créer une carte heuristique de ses intérêts en multimédia. 
