@@ -29,11 +29,11 @@
 ## [Cours 6](semaine_06.md) 
 * Présenter et donner une appréciation de l'oeuvre multimédia que vous avez choisie. 
 
-#### Autre devoir
-* Préparation pour le quiz. 
-
 ## [Cours 7](semaine_07.md) 
 * Créer une carte heuristique de ses intérêts en multimédia. 
+
+#### Autre devoir
+* Préparation pour le quiz. 
 
 ## [Cours 8](semaine_08.md) 
 * Créer le scénarimage d'une anecdote. 
