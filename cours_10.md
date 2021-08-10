@@ -1,4 +1,4 @@
-# Cours 8
+# Cours 10
 ## Création de scénarimage
 Créer le scénarimage d'une anecdote sur le site suivant:   
 
