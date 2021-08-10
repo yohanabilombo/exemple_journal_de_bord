@@ -1,6 +1,6 @@
 # Semaine 13
 ## Plan de la présentation 3
-Durée: 5 à 8 minutes
+Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
 Résumer le projet en une phrase concise.   
