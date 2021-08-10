@@ -31,6 +31,7 @@
 
 ## [Cours 7](cours_07.md) 
 * Créer une palette de couleur pour la présentation 2. 
+* Choisir 3 thèmes dans l'outil de présentation de votre choix. 
 
 #### Autre devoir
 * Préparation pour le quiz. 
