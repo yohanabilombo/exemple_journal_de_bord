@@ -24,3 +24,13 @@
 
 ## [Semaine 5](semaine_05.md) 
 * Écrire votre plan pour la présentation 1. 
+
+#### Autre devoir
+* Faire l'expérience d'une oeuvre multimédia. 
+
+## [Semaine 6](semaine_06.md) 
+* Présenter et donner une appréciation de l'oeuvre multimédia que vous avez choisie. 
+
+#### Autre devoir
+* Préparation pour le quiz. 
+
