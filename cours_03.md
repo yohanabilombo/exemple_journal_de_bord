@@ -1,5 +1,6 @@
 # Cours 3
 ## Décrire 5 emplois du domaine du multimédia
+Choisissez des emplois qui pourraient vous intéresser. 
 
 ### Emploi 1 - Identification
 Écrire 4 à 5 lignes pour le décrire. 
