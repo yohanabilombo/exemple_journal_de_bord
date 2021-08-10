@@ -55,6 +55,12 @@
 #### Autre devoir
 * Préparer la présentation 3. 
 
+## [Semaine 12](semaine_12.md) 
+* 
+
+#### Autre devoir
+* Préparer la présentation 3. 
+
 
 
 
