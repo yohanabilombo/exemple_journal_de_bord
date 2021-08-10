@@ -21,12 +21,10 @@
 
 #### Autre devoir
 * Préparer la présentation 1. 
+* PAS DE COURS LA SEMAINE PROCHAINE: Aller voir une oeuvre multimédia. 
 
 ## [Cours 5](semaine_05.md) 
 * Écrire votre plan pour la présentation 1. 
-
-#### Autre devoir
-* Faire l'expérience d'une oeuvre multimédia. 
 
 ## [Cours 6](semaine_06.md) 
 * Présenter et donner une appréciation de l'oeuvre multimédia que vous avez choisie. 
