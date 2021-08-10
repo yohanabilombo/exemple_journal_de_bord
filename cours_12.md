@@ -1,2 +1,2 @@
-# Semaine 12
+# Cours 12
 ## À déterminer
