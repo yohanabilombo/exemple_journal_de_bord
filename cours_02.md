@@ -1,4 +1,4 @@
-# Semaine 2
+# Cours 2
 ## Présentation des liens
 
 ### Lien 1 
