@@ -4,7 +4,7 @@
 * Faire une première entrée dans votre journal en expliquant pourquoi avoir choisi TIM (5 à 10 lignes)
 
 #### Autre devoir
-* Lire le guide de l'étudiant
+* Lire le guide de l'étudiant et se procurer le matériel mentionné dans celui-ci. 
 
 ## [Semaine 2](semaine_02.md) 
 * Faire une deuxième entrée en présentant 5 liens qui ont un rapport avec le domaine du multimédia. Expliquer chaque lien et pourquoi vous l'avez sélectionné. (2 à 3 lignes par lien)  
