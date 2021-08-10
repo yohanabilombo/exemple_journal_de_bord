@@ -34,3 +34,8 @@
 #### Autre devoir
 * Préparation pour le quiz. 
 
+## [Semaine 7](semaine_07.md) 
+* Créer une carte heuristique de ses intérêts en multimédia. 
+
+
+
