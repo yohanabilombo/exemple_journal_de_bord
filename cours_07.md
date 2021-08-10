@@ -9,7 +9,12 @@ Suggestions de sites où trouver des palettes de couleur:
 ## Choix d'un thème 
 Explorer les thèmes dans l'outil de présentation numérique de votre choix. Choississez 3 thèmes que vous aimez bien et notez les dans votre journal. 
 
-#### Outil de présentation: 
+#### Outil de présentation:    
+
 Thème 1 | Thème 2 | Thème 3   
 ---- | ---- | ----     
 Nom du thème | Nom du thème | Nom du thème 
+
+Nom de l'oeuvre | Auteur | Année de production | Caractéristique
+--| -- | :--: | --
+Oeuvre 1 | Aut
