@@ -1,3 +1,3 @@
-# Semaine 11
+# Cours 11
 ## Préparation de la présentation 3 
 Joindre des images de votre tempête d'idée et des esquisses de votre projet. 
