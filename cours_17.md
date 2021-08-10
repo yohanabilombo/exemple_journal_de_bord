@@ -1,4 +1,4 @@
-# Cours 17 
+# Cours 09 
 ## Création de carte heuristique
 Créer une carte euristique de vos intérêts en multimédia sur le site suivant:   
 
