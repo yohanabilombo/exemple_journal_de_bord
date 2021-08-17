@@ -1,20 +1,11 @@
 # Cours 5
-## Plan de présentation
+## Rétrospective de la présentation 1
 
-### Présentation
-Parlez de vous. 
+### Points forts
+Nommer deux points forts de votre présentation. 
 
-### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+### Points à améliorer
+Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
 
-### Emplois qui vous intéressent
-Nommez deux emplois.
-
-### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
-
-### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
-
-### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+### Présentation préférée
+Quelle présentation avez-vous préféré et pourquoi? 
