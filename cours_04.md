@@ -1,12 +1,20 @@
 # Cours 4
-## Recensement d'oeuvres
+## Plan de présentation
 
-Nom de l'oeuvre | Auteur | Année de production | Caractéristique
---| -- | :--: | --
-Oeuvre 1 | Auteur 1 | 2021 | <ul><li> Caractéristique 1 </li><li> Caractéristique 2 </li></ul>
-Oeuvre 2 | Auteur 2 | 2021 | <ul><li> Caractéristique 1 </li><li> Caractéristique 2 </li></ul>
-Oeuvre 3 | Auteur 3 | 2021 | <ul><li> Caractéristique 1 </li><li> Caractéristique 2 </li></ul>
-Oeuvre 4 | Auteur 4 | 2021 |<ul><li> Caractéristique 1 </li><li> Caractéristique 2 </li></ul>
-Oeuvre 5 | Auteur 5 | 2021 | <ul><li> Caractéristique 1 </li><li> Caractéristique 2 </li></ul>
+### Présentation
+Parlez de vous. 
 
+### Intérêts dans le domaine
+Parlez de vos intérêts en multimédia. 
 
+### Emplois qui vous intéressent
+Nommez deux emplois.
+
+### Identification
+Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+
+### Dans 5 ans
+Où vous voyez-vous dans 5 ans? 
+
+### Projets
+Expliquez un ou des projets que vous aimeriez faire. 
