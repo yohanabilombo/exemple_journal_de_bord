@@ -3,7 +3,7 @@
 Choisissez des emplois qui pourraient vous intéresser. 
 
 ### Emploi 1 - Identification
-Écrire 4 à 5 lignes pour le décrire. 
+Écrire 4 à 5 lignes pour le décrire. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. 
 
 ### Emploi 2 - Identification
 Écrire 4 à 5 lignes pour le décrire. 
