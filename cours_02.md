@@ -2,7 +2,7 @@
 ## Présentation des liens
 
 ### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. Écrire 2 à 3 lignes par lien. 
+Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
 
 ### Lien 2 
 Expliquer pourquoi vous avez choisi ce lien.
