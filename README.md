@@ -17,33 +17,33 @@
 * Décrire 5 emplois du domaine du multimédia (4 à 5 lignes par emploi). 
 
 ## [Cours 4](cours_04.md) 
-* Trouver 5 oeuvres du domaine du multimédia. Donner leur auteur, leur année de production et leurs caractéristiques. 
+* Écrire votre plan pour la présentation 1. 
 
 #### Autre devoir
 * Préparer la présentation 1. 
-* PAS DE COURS LA SEMAINE PROCHAINE: Aller voir une oeuvre multimédia. 
 
 ## [Cours 5](cours_05.md) 
-* Écrire votre plan pour la présentation 1. 
+* Rétrospective de la présentation 1. 
 
 ## [Cours 6](cours_06.md) 
-* Présenter et donner une appréciation de l'oeuvre multimédia que vous avez choisie. 
+* Préparation de 5 questions en vue de la visite. 
 
 ## [Cours 7](cours_07.md) 
+#### Autre devoir
+*  Analyse critique de l'oeuvre multimédia ou de l'entreprise visitée. 
+
+## [Cours 8](cours_08.md) 
 * Créer une palette de couleur pour la présentation 2. 
 * Choisir 3 thèmes dans l'outil de présentation de votre choix. 
 
 #### Autre devoir
 * Préparation pour le quiz. 
 
-## [Cours 8](cours_08.md) 
-Congé
-
 ## [Cours 9](cours_09.md) 
-* Créer une carte heuristique de ses intérêts en multimédia. 
+* Retour sur un des sujets de la table ronde
 
 ## [Cours 10](cours_10.md) 
-* Créer le scénarimage d'une anecdote.
+* Créer une carte heuristique de ses intérêts en multimédia. 
 
 #### Autre devoir
 * Préparer la présentation 2. 
@@ -52,12 +52,18 @@ Congé
 * Écrire votre plan pour la présentation 2. 
 
 ## [Cours 12](cours_12.md) 
-* Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
+* Créer un scénarimage ou un schéma narratif. 
 
 ## [Cours 13](cours_13.md) 
-
+* Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
 #### Autre devoir
 * Préparer la présentation 3. 
 
 ## [Cours 14](cours_14.md)
 * Écrire votre plan pour la présentation 3. 
+
+#### Autre devoir
+* Préparer la présentation 3. 
+
+## [Cours 15](cours_15.md)
+* Rétrospective de la session. 
