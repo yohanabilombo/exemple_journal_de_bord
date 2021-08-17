@@ -1,5 +1,4 @@
 # Cours 10
 ## Création de carte heuristique
-Créer une carte euristique de vos intérêts en multimédia sur le site suivant:   
+Créer une carte euristique en lien avec votre présentation 2 et la joindre ici: 
 
-Joindre une image de cette carte dans votre journal de bord. 
