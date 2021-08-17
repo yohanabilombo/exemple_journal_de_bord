@@ -44,7 +44,7 @@ Aucune entrée.
 * Retour sur un des sujets de la table ronde
 
 ## [Cours 10](cours_10.md) 
-* Créer une carte heuristique de ses intérêts en multimédia. 
+* Créer une carte heuristique pour la présentation 2.  
 
 #### Autre devoir
 * Préparer la présentation 2. 
