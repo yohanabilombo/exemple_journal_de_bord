@@ -41,7 +41,7 @@ Aucune entrée.
 * Préparation pour le quiz. 
 
 ## [Cours 9](cours_09.md) 
-* Retour sur un des sujets de la table ronde
+* Choix de votre oeuvre multimédia pour la présentation 2.
 
 ## [Cours 10](cours_10.md) 
 * Créer une carte heuristique pour la présentation 2.  
