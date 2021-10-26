@@ -1,3 +1,3 @@
 # Cours 09 
-## Retour sur la table ronde
-En 8 à 12 lignes, revenez sur la table ronde du cours. Choisissez le sujet que vous avez préféré et exprimer votre opinion sur celui-ci. Comment ce sujet vous touche-t-il en tant que créateur? Quels sont les enjeux reliés à ce sujet? 
+## Choix de votre oeuvre pour la présentation 2
+En ordre de préférence, faites une liste de 3 oeuvres qui vous intéressent. 1 étant votre préférée. 
