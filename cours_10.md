@@ -2,4 +2,4 @@
 ## Création de carte heuristique
 Créer une carte euristique en lien avec votre présentation 2 et la joindre ici: 
 
-![Carte heuristique:](images/Carteheuristique.jpg)
+![Carte heuristique](images/Carteheuristique.jpg)
