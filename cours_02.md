@@ -1,6 +1,6 @@
 # Cours 2
 ## Présentation des liens
-Choisissez cinq oeuvres ou compagnies du multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
+Choisissez cinq oeuvres ou compagnies multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
 
 Exemple: 
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
