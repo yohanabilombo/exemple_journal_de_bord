@@ -10,7 +10,6 @@
 * Faire une deuxième entrée en présentant 5 liens qui ont un rapport avec le domaine du multimédia. Expliquer chaque lien et pourquoi vous l'avez sélectionné. (2 à 3 lignes par lien)  
 
 #### Autre devoir
-* Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams (En s'assurant que personne n'ait le même). 
 * Formater votre disque dur. 
 
 ## [Cours 3](cours_03.md) 
