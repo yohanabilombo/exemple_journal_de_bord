@@ -1,8 +1,13 @@
 # Cours 2
 ## Présentation des liens
+Choisissez cinq oeuvres ou compagnies du multimédia. Expliquez en quoi ce dernier pourrait contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien.
+
+Exemple: 
+### [Bulle](https://www.onf.ca/interactif/bulle/) 
+L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
 ### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
+Expliquer pourquoi vous avez choisi ce lien. 
 
 ### Lien 2 
 Expliquer pourquoi vous avez choisi ce lien.
@@ -13,8 +18,6 @@ Expliquer pourquoi vous avez choisi ce lien.
 ### Lien 4 
 Expliquer pourquoi vous avez choisi ce lien. 
 
-### Lien 5 : Exposition à la SAT (Choisir une des installations)
-Expliquer pourquoi vous avez choisi cette installation parmis celles présentées. Vous a-t-elle inspiré, choqué, intrigué? En 2 à 3 lignes. 
+### Lien 5 
+Expliquer pourquoi vous avez choisi ce lien. 
 
-## Publication sur Teams
-Publier un des 4 premiers liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
