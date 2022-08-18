@@ -13,10 +13,10 @@
 * Formater votre disque dur. 
 
 ## [Cours 3](cours_03.md) 
-* Décrire 5 emplois du domaine du multimédia (4 à 5 lignes par emploi). 
+* Écrire votre plan pour la présentation 1. 
 
 ## [Cours 4](cours_04.md) 
-* Écrire votre plan pour la présentation 1. 
+* Décrire 5 emplois du domaine du multimédia (4 à 5 lignes par emploi).
 
 #### Autre devoir
 * Préparer la présentation 1. 
