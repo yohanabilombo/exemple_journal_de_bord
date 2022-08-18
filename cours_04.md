@@ -1,20 +1,20 @@
 # Cours 4
-## Plan de présentation
+## Décrire 5 emplois du domaine du multimédia
+Choisissez des emplois qui pourraient vous intéresser. 
 
-### Présentation
-Parlez de vous. 
+### Emploi 1 - Identification
+Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
 
-### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+### Emploi 2 - Identification
+4 à 5 lignes
 
-### Emplois qui vous intéressent
-Nommez deux emplois.
+### Emploi 3 - Identification
+4 à 5 lignes 
 
-### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+### Emploi 4 - Identification
+4 à 5 lignes
 
-### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+### Emploi 5 - Identification
+4 à 5 lignes
 
-### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+
