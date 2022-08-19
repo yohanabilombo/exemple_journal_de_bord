@@ -28,9 +28,7 @@
 * Préparation de 5 questions en vue de la visite. 
 
 ## [Cours 7](cours_07.md) 
-Aucune entrée. 
-#### Autre devoir
-*  Analyse critique de l'oeuvre multimédia ou de l'entreprise visitée. 
+*  Analyse critique de l'oeuvre multimédia visitée. 
 
 ## [Cours 8](cours_08.md) 
 * Créer une palette de couleur pour la présentation 2. 
