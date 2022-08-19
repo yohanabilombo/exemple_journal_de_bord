@@ -31,8 +31,7 @@
 *  Analyse critique de l'oeuvre multimédia visitée. 
 
 ## [Cours 8](cours_08.md) 
-* Créer une palette de couleur pour la présentation 2. 
-* Choisir 3 thèmes dans l'outil de présentation de votre choix. 
+* Remise d'une vidéo réalisée dans OBS
 
 #### Autre devoir
 * Préparation pour le quiz. 
