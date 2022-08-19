@@ -27,7 +27,7 @@
 ## [Cours 6](cours_06.md) 
 * Préparation de 5 questions en vue de la visite. 
 
-## Cours 7
+## [Cours 7](cours_07.md) 
 Aucune entrée. 
 #### Autre devoir
 *  Analyse critique de l'oeuvre multimédia ou de l'entreprise visitée. 
