@@ -37,7 +37,7 @@
 * Préparation pour le quiz. 
 
 ## [Cours 9](cours_09.md) 
-* Choix de votre oeuvre multimédia pour la présentation 2.
+* Choix de votre oeuvre métier pour la présentation 2.
 
 ## [Cours 10](cours_10.md) 
 * Créer une carte heuristique pour la présentation 2.  
