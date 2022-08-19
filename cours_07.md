@@ -3,19 +3,13 @@
 
 L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
 
-Entre 400 et 600 mots 
- 
+Entre 300 et 400 mots. 
 
-Structure de texte pour une œuvre  
+### Description
+Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
 
-Introduction :  
+### Opinion
+Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
 
-Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez traiter. Divisez ensuite ce sujet en deux ou trois sous-sujets.
-
-Développement :  
-
-Créez un paragraphe par sous-sujet que vous avez mentionné à l’introduction. Dans ce paragraphe, vous devez aborder ce sujet en l’expliquant, puis en donnant votre opinion à ce propos. Prenez le temps d’expliquer votre opinion.  
-
-Conclusion :  
-
-Revenez sur les points principaux de votre texte. Faites une ouverture en nous mentionnant pourquoi cette œuvre vous a touché ou non.   
+### Analyse critique
+Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
