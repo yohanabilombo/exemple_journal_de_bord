@@ -1,18 +1,13 @@
-# Cours 2
-## Présentation des liens
-Choisissez cinq oeuvres ou compagnies multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
 
-Exemple: 
-### [Bulle](https://www.onf.ca/interactif/bulle/) 
-L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
+**1**-[Cavalia-Illumi](https://cavalia.com/fr/)
 
-### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. 
+Illumi est un spectacle de lumière qui est tout simplement **INCROYABLE**. Le fait de voir de milliers de lumière allumer qui ont le pouvoir de nous imerger dans un tout autre monde rend les sortit de famillial ou bien même amical mémorable. Dans ma demarche artistique ce dernier pourrais vraiment me faire developper de nouvelles idées en ce qui conserne les jeux de lumieres dans mes projets.
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+**2**-[Expo Barbie](https://expobarbie.ca/fr/) 
 
-### Lien 3 
+Les Barbies ont fait partit de ma jeunesse pendant plusieurs années.Que se soit dans ma chambre, à la television, en magasin surtout ou bien même au cinéma, elles était partout et me fassinait **ÉNORMÉMENT**. Pour ma pars je ne suis jamais aller voir cette exposition mais cela m'interesserais vraiment.Je pense que au niveau artistique cette exposition pourrais apporter une tout autre ouverture d'esprit pour certaines personnes et developper notre imagination.
+
+**3**-[Expo Barbie](https://expobarbie.ca/fr/)
 Expliquer pourquoi vous avez choisi ce lien.  
 
 ### Lien 4 
