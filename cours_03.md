@@ -12,10 +12,10 @@ Mes intérêts en multimedia ne sont pas encore tout a fait claire dans ma tete 
 J'aimerais bien etre réalisatrice de projet que ce soit en animation 3D ou le cinéma c'est un métier qui m'intéresserais beaucoups.
 
 ### Identification
- (http://chezsport.com/)
+[SPORT] (http://chezsport.com/)est une compagnie qui réalise beaucoups de contenue qui encarde le sport tel que des **DES ANIMATION, DES DOCUMENTAIRE,DE LA FICTION,  DE LA PUBLICITÉ, DES VIDÉOCLIP ET DES WEBSÉRIES**
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Dans 5 ans je me vois surment a l'Université ou sur le marché du traville (qui sait) en étant deja asser stable finacièrement et en ayant mon apartement. 
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+J'aimerais bien peut-etre un jour crée un documentaire sur quoi? je sais pas encore pour etre honnête mais surment sur la patisserie ou le sport
