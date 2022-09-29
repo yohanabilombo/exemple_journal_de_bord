@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+­je pence que je parlais asser fort selon moi
+­Mon pawer point disait tous ce que j'avias a dire sur moi
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
-
+Je parlais un peu trop vite et je ne pence pas avoir durer 5 minutes.
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Celle d'Ikramm parce que j'ai pue découvrir un nouveau metier qui pourait possiblement m'intérrésser.00 
