@@ -63,4 +63,4 @@
 * Préparer la présentation 3. 
 
 ## [Cours 15](cours_15.md)
-* Rétrospective de la session. 
+* Rétrospective de la session.
